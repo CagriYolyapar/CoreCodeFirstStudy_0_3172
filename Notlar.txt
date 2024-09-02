@@ -1,0 +1,21 @@
+﻿--Danisman(Consultant), Brans, Lab,Ogrenci, DersPaketi(urun),Egitmen,Order, OrderDetail (Order,LessonPackage)
+
+--Egitmen ve Branslar arasinda Many to Many iliskisi var 
+
+--Consultant birden fazla ögrenciye destek verebiliyor yalnız bir ögrenci bir danısman sayesinde register olur..
+
+--Lablar LessonPackages ile ilişkilendirilmiştir...Bir Labda birden fazla lessonPackage verilebilir...
+
+--LessonPackage'i hangi ögretmen tarafından , hangi Lab'da verilecegi bilinmelidir...
+
+----Order  - Product
+
+--OrderLessonPackage
+
+
+
+
+
+
+
+
